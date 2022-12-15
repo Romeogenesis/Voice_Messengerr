@@ -46,4 +46,6 @@
 
 [Фамилия_И_О_Аннотация_ИТ.docx](https://github.com/Romeogenesis/Voice_Messengerr/files/10238743/_._._._.docx)
 
-<img src="https://cloud.githubusercontent.com/assets/screenshot.jpg" width="400" height="790">
+<img src="https://user-images.githubusercontent.com/114167927/207912266-1c46c702-47ab-4f3a-90e2-5291fc67dc89.jpg" width="100" height="100">
+
+<img src="https://user-images.githubusercontent.com/114167927/207915574-98e68ca5-ea81-4dc6-a4cc-fa1b21b43685.jpg" width="10000" height="10000">
