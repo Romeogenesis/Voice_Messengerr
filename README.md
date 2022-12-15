@@ -45,3 +45,5 @@
 [Фамилия_И_О_Презентация_ИТ.pdf](https://github.com/Romeogenesis/Voice_Messengerr/files/10238739/_._._._.pdf)
 
 [Фамилия_И_О_Аннотация_ИТ.docx](https://github.com/Romeogenesis/Voice_Messengerr/files/10238743/_._._._.docx)
+
+<img src="https://cloud.githubusercontent.com/assets/screenshot.jpg" width="400" height="790">
